@@ -1,5 +1,6 @@
 #Run Development Mode
-npm run dev  
+
+>npm run dev  
 
 #Run Production Mode 
-npm run start 
+>npm run start 
